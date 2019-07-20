@@ -1,0 +1,4 @@
+com/chrm/mybatis/generator/plugins/LombokPlugin.class
+com/chrm/mybatis/generator/plugins/CommentPlugin.class
+com/chrm/mybatis/generator/plugins/LombokPlugin$Annotations.class
+com/chrm/mybatis/generator/plugins/CommentPlugin$Annotations.class
